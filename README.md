@@ -87,13 +87,13 @@ products, cities, and platforms.
 
 # 🛠 Tools & Technologies
 
-  Tool                          Purpose
-  ----------------------------- ------------------------------------
-  Microsoft Excel               Data analysis & dashboard creation
-  Power Query                   Data cleaning & transformation
-  Excel Data Analysis ToolPak   Summary statistics
-  Pivot Tables                  Data aggregation
-  Pivot Charts                  Data visualization
+  | Tool | Purpose |
+|-----|--------|
+| Microsoft Excel | Data analysis & dashboard creation |
+| Power Query | Data cleaning & transformation |
+| Excel Data Analysis ToolPak | Summary statistics |
+| Pivot Tables | Data aggregation |
+| Pivot Charts | Data visualization |
 
 ------------------------------------------------------------------------
 
@@ -184,34 +184,34 @@ Key observations:
 
 ### Sales KPIs
 
-  KPI                   Value
-  --------------------- -------------
-  Total Revenue         \$6,039,914
-  Total Orders          10,000
-  Total Quantity Sold   30,062
-  Average Order Value   \$603.99
+  | KPI | Value |
+|-----|------|
+| Total Revenue | $6,039,914 |
+| Total Orders | 10,000 |
+| Total Quantity Sold | 30,062 |
+| Average Order Value | $603.99 |
 
 ### Customer KPIs
 
-  KPI              Value
-  ---------------- ------------
-  Average Rating   3.0
-  Total Reviews    25,200,722
+ | KPI | Value |
+|-----|------|
+| Average Rating | 3.0 |
+| Total Reviews | 25,200,722 |
 
 ### Product KPIs
 
-  KPI            Value
-  -------------- ----------------------
-  Top Product    Xiaomi Redmi Note 12
-  Top Category   Electronics
-  Best Brand     Xiaomi
+  | KPI | Value |
+|-----|------|
+| Top Product | Xiaomi Redmi Note 12 |
+| Top Category | Electronics |
+| Best Brand | Xiaomi |
 
 ### Platform KPIs
 
-  KPI            Value
-  -------------- -------------
-  Top Platform   Souq
-  Revenue        \$2,038,419
+  | KPI | Value |
+|-----|------|
+| Top Platform | Souq |
+| Revenue | $2,038,419 |
 
 ------------------------------------------------------------------------
 
