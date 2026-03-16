@@ -246,6 +246,7 @@ Users can filter the dashboard by:
 -   Platform
 -   City
 
+<img width="1322" height="536" alt="Emirates_E-commerce_Dashboard" src="https://github.com/user-attachments/assets/c2dc022a-ed84-4545-afaa-7490a962a7da" />
 
 
 *(Insert GIF showing dashboard interaction here)*
