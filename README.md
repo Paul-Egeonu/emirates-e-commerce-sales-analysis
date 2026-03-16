@@ -129,18 +129,24 @@ Removed duplicate records to ensure data integrity.
 
 A new revenue column was created:
 
-Revenue = Price × Quantity Sold
+```m
+= [Price] * [Quantity Sold]
+```
 
 **3. Customer Rating Classification**
 
 Customer satisfaction categories were created:
 
--   Very Poor (≤1.9)
--   Poor (≤2.4)
--   Average (≤2.9)
--   Good (≤3.9)
--   Very Good (≤4.4)
--   Excellent (\>4.4)
+```m
+= if [Rating] <= 1.9 then "Very Poor" 
+else if [Rating] <= 2.4 then "Poor" 
+else if [Rating] <= 2.9 then "Average" 
+else if [Rating] <= 3.9 then "Good" 
+else if [Rating] <= 4.4 then "Very Good" 
+else "Excellent"
+```
+
+
 
 **4. Data Type Correction**
 
