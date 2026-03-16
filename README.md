@@ -246,7 +246,8 @@ Users can filter the dashboard by:
 -   Platform
 -   City
 
-*(Insert dashboard screenshot here)*
+
+
 
 *(Insert GIF showing dashboard interaction here)*
 
@@ -254,7 +255,7 @@ Users can filter the dashboard by:
 
 # 🔍 Key Insights
 
-### Balanced Platform Performance
+### 1. Balanced Platform Performance
 
 Revenue distribution:
 
@@ -264,7 +265,7 @@ Revenue distribution:
 
 This indicates **low dependency on any single marketplace**.
 
-### Electronics & Fashion Dominate Revenue
+### 2. Electronics & Fashion Dominate Revenue
 
 Top categories:
 
@@ -273,22 +274,22 @@ Top categories:
 
 Together they generate **over 60% of total revenue**.
 
-### Strong Basket Size
+### 3. Strong Basket Size
 
 Customers buy **\~3 items per order**, generating a strong **average
 order value of \$603.99**.
 
-### Product Revenue Diversification
+### 4. Product Revenue Diversification
 
 Top product revenues range between **\$561K -- \$675K**, indicating
 **balanced product demand**.
 
-### Stable Monthly Sales
+### 5. Stable Monthly Sales
 
 Revenue remains consistent throughout the year, indicating **stable
 consumer demand**.
 
-### Customer Satisfaction Opportunity
+### 6. Customer Satisfaction Opportunity
 
 Nearly **47% of reviews are average or below**, indicating potential
 improvements in:
@@ -404,7 +405,12 @@ This project demonstrates the ability to:
 
 # 👤 Author
 
-**Data Analytics Portfolio Project**
+**Paul Egeonu**  
+Data Analyst | Business Intelligence | Financial Analytics  
+
+---
+
+> ⭐ If you found this project insightful, feel free to star the repository.
 
 Designed to demonstrate practical **Excel‑based business analytics
 skills** applicable to real‑world e‑commerce decision making.
