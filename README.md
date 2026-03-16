@@ -1,5 +1,4 @@
-# Emirates E-Commerce Sales Analysis | Excel Dashboard & Power Query
-# 📊 Emirates E‑Commerce Sales Analysis (Excel End‑to‑End Analytics Project)
+# 📊 Emirates E-Commerce Sales Analysis | Excel Dashboard & Power Query
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
 ![Power
