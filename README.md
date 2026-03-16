@@ -248,7 +248,6 @@ Users can filter the dashboard by:
 
 
 
-
 *(Insert GIF showing dashboard interaction here)*
 
 ------------------------------------------------------------------------
