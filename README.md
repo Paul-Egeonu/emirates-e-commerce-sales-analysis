@@ -375,15 +375,13 @@ Business Understanding\
     │
     ├── data
     │   └── Emirates_E-commerce.xlsx
+    │    └── Emirates_E-commerce_Analysis.xlsx
     │
     ├── dashboard
     │   └── Excel Dashboard Screenshot.png
     │
     ├── visuals
     │   └── Dashboard Interaction.gif
-    │
-    ├── documentation
-    │   └── Project Report.pdf
     │
     └── README.md
 
