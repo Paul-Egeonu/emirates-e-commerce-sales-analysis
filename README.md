@@ -248,6 +248,8 @@ Users can filter the dashboard by:
 
 <img width="1322" height="536" alt="Emirates_E-commerce_Dashboard" src="https://github.com/user-attachments/assets/c2dc022a-ed84-4545-afaa-7490a962a7da" />
 
+------------------------------------------------------------------------
+
 ![Emirates_E-Commerce_working xlsx-Excel2026-03-1705-52-25-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f2abb541-4ef1-49d0-a942-f06bbb94efe2)
 
 
